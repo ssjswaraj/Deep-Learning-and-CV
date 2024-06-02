@@ -18,7 +18,7 @@ Both models are fine-tuned to detect masks in real-time, with ResNet152 achievin
   * Training Time: Longer training time due to its deeper architecture and higher complexity.
   * Potential Applications: Crowded environments (e.g., airports, train stations), low-light conditions (e.g., night-time surveillance).
 
-* **VGG16** : Achieves a notable accuracy of 97%. Simplicity and ease of understanding, faster inference times, and lower computational requirements compared to ResNet152, making it suitable for small-scale deployments in various settings.
+* **VGG16** : Achieves a notable accuracy of 97%. Simplicity and ease of understanding, faster conclusion, and lower computational requirements compared to ResNet152, making it suitable for small-scale deployments in various settings.
   * Model Size: VGG16 has a larger size of approximately 528 MB.
   * Architecture: Consists of 16 layers with simple convolutional blocks.
   * Training Time: Faster training time compared to ResNet152 due to its shallower architecture and lower complexity.
@@ -32,7 +32,5 @@ Both models are fine-tuned to detect masks in real-time, with ResNet152 achievin
 * Validate model performance using various metrics such as precision, recall, and F1-score.
 * Conduct extensive testing in diverse environments to ensure robustness and reliability.
 
-### Expected Outcomes:
-* A highly accurate and reliable face mask detection system capable of real-time operation.
-* Detailed comparative analysis of VGG16 and ResNet152 performance, highlighting the strengths and potential application scenarios for each model.
-* Contribution to public health safety by ensuring higher compliance with mask-wearing guidelines through automated detection.
+### Outcomes:
+A highly accurate and reliable face mask detection system with accuracy of 98%. This project provides a valuable tool for improving public health safety by encouraging effective mask usage through automated detection.
