@@ -1,4 +1,4 @@
-### Dog vs Cat Image Classification Using Convolutional Neural Networks
+### Dog vs Cat Image Classification Using Convolutional Neural Networks : [Dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats/data)
 
 ### Project Description
 This project aims to develop a Convolutional Neural Network (CNN) model to classify images of dogs and cats, using Python and TensorFlow's Keras API. Utilizing a comprehensive dataset of labeled dog and cat images, the project's primary goal is to accurately differentiate between the two classes. The dataset includes 25,000 images, split into 20,000 images for training and 5,000 for testing. This project is a practical implementation of deep learning techniques in the field of computer vision.
